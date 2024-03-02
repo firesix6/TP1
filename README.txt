@@ -11,4 +11,5 @@ EXO3: Pour cette exercice, quand on essaye de couvrir toute les ligne on couvre 
 EXO4: Pour celui la aussi, en essayant de couvrir les ligne, toute les branche et condition ont été couverte 
 --------------------------------------------------------
 exo5: on remet la boucle et la condition de co forme pour avoir des resultat juste: for (int i = 0; i < symbols.length; i++) {
-            while (n >= values[i]) {
+            while (n >= values[i]) 
+pour cet exercice, en faisant le line converage, une des branche a été non testé, alors on ajoute une autre classe de test de branche et avec on aura verifier toute les condition aussi 

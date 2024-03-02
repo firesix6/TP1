@@ -8,5 +8,7 @@ je juge que la couverture de ligne, branche et condition sont presque toute simi
 --------------------------------------------------------
 EXO3: Pour cette exercice, quand on essaye de couvrir toute les ligne on couvre avec les branches et conditions !
 --------------------------------------------------------
+EXO4: Pour celui la aussi, en essayant de couvrir les ligne, toute les branche et condition ont été couverte 
+--------------------------------------------------------
 exo5: on remet la boucle et la condition de co forme pour avoir des resultat juste: for (int i = 0; i < symbols.length; i++) {
             while (n >= values[i]) {

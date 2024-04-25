@@ -1,4 +1,5 @@
 ps. la plupart des tests jugé similaire sont dans le dossier LineCoverage
+ps2. l'environement est le dossier Intellij
 
 Exo1: la fonction est incorrecte, i-- et j++ et non le contraire
 aussi, je juge que la couverture de ligne, branche et condition sont presque toute similaire.
